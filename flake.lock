@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656297838,
-        "narHash": "sha256-JECgG66MGqaFMUY1woLIC55utdE0N4dIWXiUPs25CFc=",
+        "lastModified": 1656301004,
+        "narHash": "sha256-DfQmwUujY80ELgqN27Ye9PxoY8EXl8yB1ehY6tCTERc=",
         "owner": "nim-nix-pkgs",
         "repo": "loopfusion",
-        "rev": "8e6cb041b4b811b465dec66cf1fc0d6e0a595329",
+        "rev": "d575626b924fcaad22a9a3e7d1fa999215927bfc",
         "type": "github"
       },
       "original": {
